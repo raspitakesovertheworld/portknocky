@@ -1,0 +1,15 @@
+Package: portknocky
+Version: 0.82
+Section: base
+Priority: optional
+Architecture: all
+Maintainer: Markus Bawidamann
+Description: The portknocky tool. Tool to troubleshoot pesty connection problems by "pinging a port", connecting to a choosable port in regular intervals and showing the statistics afterwards how many times the connection was unavailable. A great tool to see how reliable a network connection is.
+
+
+
+
+
+
+
+
